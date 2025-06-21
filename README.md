@@ -24,7 +24,7 @@ GlanceTemp is a lightweight, transparent, and always-on-top desktop overlay appl
 ### **Steps**
 
 1. **Clone the repository (or download the GlanceTemp.py file):**  
-   git clone https://github.com/YourUsername/GlanceTemp.git  
+   git clone https://github.com/ChinatsuHS/GlanceTemp.git  
    cd GlanceTemp
 
 2. **Install the required Python packages:**  

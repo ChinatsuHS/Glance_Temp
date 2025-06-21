@@ -68,8 +68,6 @@ The executable will be generated in the dist/ folder.
 
 This project is licensed under the MIT License \- see the [LICENSE](http://docs.google.com/LICENSE) file for details.
 
-*(Suggestion: Create a file named LICENSE in the root of your repository and paste the MIT License text into it.)*
-
 MIT License
 
 Copyright (c) \[2025\] \[ChinatsuHS\]
